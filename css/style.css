@@ -70,7 +70,6 @@ body {
   padding-bottom: 0.4rem;
   border-bottom: 0.15rem solid #d6d5d2;
   transform: scaleX(0);
-
   transition: 0.3s;
 }
 
